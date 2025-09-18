@@ -61,3 +61,10 @@ layout: default
       *   **TelCell：** APN: `wap.setar` (或 `internet.setar`)。用户名/密码通常留空。试试哪个能用。
       *   **UTS (Chippie)：** APN: `internet`。用户名/密码通常留空。
       *   **手动设置位置：**
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Sint Maarten eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/sint-maarten-data-plans)
